@@ -98,6 +98,12 @@ public class CodewarsStyleRankingSystem {
         return this.exp;
     }
     
+    /**
+     * Increments the progress of the user based on the completed kata and updates their rank accordingly. 
+     * 
+     * @param  kata  The kata completed by the user
+     * @throws IllegalArgumentException if the kata is not available
+     */
     public void incProgress(int kata) throws IllegalArgumentException {
         
         IllegalArgumentException jebacDisa = new IllegalArgumentException();
