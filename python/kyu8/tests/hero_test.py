@@ -1,3 +1,5 @@
+# unittests for hero.py
+
 import unittest
 
 from ..hero import hero
