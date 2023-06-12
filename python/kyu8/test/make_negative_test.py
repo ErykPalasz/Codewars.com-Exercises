@@ -1,6 +1,6 @@
 import unittest
 
-from ..make_negative import make_negative
+from ..src.make_negative import make_negative
 
 
 class TestMakeNegative(unittest.TestCase):

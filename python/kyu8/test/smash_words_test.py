@@ -1,6 +1,6 @@
 import unittest
 
-from ..smash_words import smash
+from ..src.smash_words import smash
 
 
 class TestSmash(unittest.TestCase):

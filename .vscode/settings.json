@@ -9,9 +9,6 @@
     "python.formatting.provider": "black",
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.inlayHints.pytestParameters": true,
-    "python.testing.pytestArgs": [
-      "codewarscom"
-    ],
     "python.testing.unittestEnabled": true,
     "python.testing.pytestEnabled": false,
     "python.testing.unittestArgs": [
