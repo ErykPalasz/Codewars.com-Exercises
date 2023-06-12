@@ -1,4 +1,4 @@
-from ..number_to_string import number_to_string
+from ..src.number_to_string import number_to_string
 
 
 import unittest

@@ -1,6 +1,6 @@
 import unittest
 
-from ..positive_sum import positive_sum
+from ..src.positive_sum import positive_sum
 
 
 class TestPositiveSum(unittest.TestCase):

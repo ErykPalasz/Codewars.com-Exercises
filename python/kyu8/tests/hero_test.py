@@ -2,7 +2,7 @@
 
 import unittest
 
-from ..hero import hero
+from ..src.hero import hero
 
 
 class TestHero(unittest.TestCase):

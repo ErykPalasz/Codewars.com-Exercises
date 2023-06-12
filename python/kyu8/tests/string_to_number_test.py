@@ -1,6 +1,6 @@
 import unittest
 
-from ..string_to_number import string_to_number
+from ..src.string_to_number import string_to_number
 
 
 class TestStringToNumber(unittest.TestCase):
