@@ -32,3 +32,6 @@ class TestSumStringsAsNumbers(unittest.TestCase):
 
     def test_all_nines(self):
         self.assertEqual(sum_strings("99999999999", "1"), "100000000000")
+
+    def test_all_zeros(self):
+        self.assertEqual(sum_strings("000000000", "00000000000"), "0")
